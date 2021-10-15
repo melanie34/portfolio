@@ -1,0 +1,119 @@
+body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+.row-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  [class*="col-"] {
+    margin-bottom: 30px;
+  }
+  
+  .content {
+    height: 100%;
+    padding: 20px 20px 10px;
+    color: #fff;
+  }
+  .text-center{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  
+  .colour-1 {
+    background-image: url(https://presence-web.ch/wp-content/uploads/2020/02/presence-web-blog-site-internet-header.png);
+    color: rgb(122, 121, 121);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  .colour-2 {
+    background-color: peachpuff;
+    color: rgb(121, 118, 118);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  
+
+  
+  .colour-7 {
+    background-image: url(https://www.alternance-professionnelle.fr/wp-content/uploads/2017/09/analyste-programmeur-alternance.jpg);
+    color: rgb(253, 252, 252);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  
+  .colour-8 {
+    background-color: peachpuff;
+    color: rgb(121, 121, 121);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  
+  .colour-3 {
+    background-image: linear-gradient(bisque,white);
+    color: rgb(121, 120, 120);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+
+  .h3{
+    margin:10px ; 
+  }
+
+  .colour-4 {
+    background-image: linear-gradient(rgb(241, 185, 255),white);
+    color: rgb(121, 120, 120);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  
+  .colour-5 {
+    background-image: url(https://www.krea3.fr/wp-content/uploads/2018/10/krea3.jpg);
+    color: rgb(119, 119, 119);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  
+  .colour-6 {
+    background-image: url(https://thumbs.dreamstime.com/b/fond-abstrait-avec-la-vague-horizontale-rose-illustration-de-vecteur-pour-votre-web-design-ou-site-106342614.jpg);
+    color: rgb(121, 121, 121);
+    background-size: cover;
+    border-radius: 10px;
+    
+  }
+
+
+  .content h3 {
+    margin-top: 0px;
+    font-weight: 300;
+  }
+  
+  h1 {
+    font-weight: 300;
+    margin-bottom: 40px;
+    margin-top: 100px;
+  }
+  footer{
+    background-color: peachpuff;
+  }
+  .btn-primary{
+    color: #fff;
+    margin-top: 30px;
+  }
+ .icone{
+   word-spacing: 4rem;
+ }
